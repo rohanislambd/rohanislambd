@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Rohan Islam Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rohan Islam</h1>
 <h3 align="center">Aspiring Web Developer | Building and Learning Every Day</h3>
 
@@ -9,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React and modern frontend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohanislambd](https://github.com/rohanislambd)
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/rohanislambd)
 
 - 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Git & GitHub**
 
