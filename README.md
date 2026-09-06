@@ -85,7 +85,7 @@
 
   <a href="https://github.com/rohanislambd" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      src="./assets/Github-Dark.svg"
       alt="GitHub"
       height="35"
       width="45"
