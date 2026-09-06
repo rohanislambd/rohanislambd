@@ -205,7 +205,7 @@
 
   <a href="https://github.com/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      src="./assets/Github-Dark.svg"
       alt="GitHub"
       width="50"
       height="50"
