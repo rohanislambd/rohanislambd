@@ -65,7 +65,7 @@
 
 <p align="left">
 
-  <a href="https://fb.com/roahanislamofficial" target="_blank"  style="text-decoration: none; text-underline-offset: 0;" >
+  <a href="https://fb.com/roahanislamofficial" target="_blank" >
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook"
@@ -74,7 +74,7 @@
     />
   </a>
 
-  <a href="https://instagram.com/roahanislamofficial" target="_blank"  style="text-decoration: none; text-underline-offset: 0;">
+  <a href="https://instagram.com/roahanislamofficial" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
@@ -83,7 +83,7 @@
     />
   </a>
 
-  <a href="https://github.com/rohanislambd" target="_blank"  style="text-decoration: none; text-underline-offset: 0;">
+  <a href="https://github.com/rohanislambd" target="_blank">
     <img
       src="./assets/Github-Dark.svg"
       alt="GitHub"
