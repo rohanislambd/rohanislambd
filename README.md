@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./banner.png" alt="Rohan Islam Banner" width="100%">
+  <img src="./assets/banner.png" alt="Rohan Islam Banner" width="100%">
 </p>
 
 
@@ -108,7 +108,7 @@
 
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="./assets/HTML.svg"
       alt="HTML5"
       width="50"
       height="50"
@@ -117,7 +117,7 @@
 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="./assets/CSS.svg"
       alt="CSS3"
       width="50"
       height="50"
@@ -126,7 +126,7 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="./assets/JavaScript.svg"
       alt="JavaScript"
       width="50"
       height="50"
@@ -135,7 +135,7 @@
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="./assets/TypeScript.svg"
       alt="TypeScript"
       width="50"
       height="50"
@@ -144,7 +144,7 @@
 
   <a href="https://react.dev/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="./assets/React-Dark.svg"
       alt="React"
       width="50"
       height="50"
@@ -153,21 +153,14 @@
 
   <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="./assets/TailwindCSS-Dark.svg"
       alt="Tailwind CSS"
       width="50"
       height="50"
     />
   </a>
 
-  <a href="https://svelte.dev/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-      alt="Svelte"
-      width="50"
-      height="50"
-    />
-  </a>
+ 
 
 </p>
 
@@ -178,7 +171,7 @@
 
   <a href="https://nodejs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="./assets/NodeJS-Dark.svg"
       alt="Node.js"
       width="50"
       height="50"
@@ -187,7 +180,7 @@
 
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="./assets/MongoDB.svg"
       alt="MongoDB"
       width="50"
       height="50"
