@@ -42,10 +42,12 @@
     <strong>JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Git & GitHub</strong>
   </li>
 
-  <li>
-    📫 How to reach me:
-    <strong>coderootbdofficial24@gmail.com</strong>
-  </li>
+<li> 
+  📫 How to reach me: 
+  <a href="mailto:coderootbdofficial24@gmail.com"> 
+    Gmail 
+  </a> 
+</li>
 
   <li>
     ⚡ Fun fact:
