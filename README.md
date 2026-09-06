@@ -65,30 +65,33 @@
 
 <p align="left">
 
-  <a href="https://fb.com/roahanislamofficial" target="_blank"  style="text-decoration: none;" >
+  <a href="https://fb.com/roahanislamofficial" target="_blank"   >
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook"
       height="35"
       width="45"
+      style="display: block;"
     />
   </a>
 
-  <a href="https://instagram.com/roahanislamofficial" target="_blank"  style="text-decoration: none;">
+  <a href="https://instagram.com/roahanislamofficial" target="_blank"  >
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
       height="35"
       width="45"
+      style="display: block;"
     />
   </a>
 
-  <a href="https://github.com/rohanislambd" target="_blank"  style="text-decoration: none;">
+  <a href="https://github.com/rohanislambd" target="_blank"  >
     <img
       src="./assets/Github-Dark.svg"
       alt="GitHub"
       height="35"
       width="45"
+      style="display: block;"
     />
   </a>
 
