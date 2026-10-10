@@ -242,13 +242,26 @@
 
 <h2>📚 Current Learning</h2>
 
-<ul>
-  <li>⚡ JavaScript</li>
-  <li>🔷 TypeScript</li>
-  <li>⚛️ React</li>
-  <li>🎨 Modern CSS & Tailwind CSS</li>
-  <li>🌐 Web Development</li>
-</ul>
+<div>
+  <h3>💻 Languages & Frameworks</h3>
+  <ul>
+    <li>⚡ JavaScript</li>
+    <li>🔷 TypeScript</li>
+    <li>⚛️ React</li>
+    <li>▲ Next.js</li>
+    <li>🎨 Modern CSS & Tailwind CSS</li>
+    <li>🌐 Web Development</li>
+  </ul>
+</div>
+
+<div>
+  <h3>🛠️ Tools & Technologies</h3>
+  <ul>
+    <li>🔐 Better Auth</li>
+    <li>🍃 MongoDB</li>
+    <li>🔀 Git & GitHub</li>
+  </ul>
+</div>
 
 
 <br>
