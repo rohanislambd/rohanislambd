@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Rohan Islam Banner" width="100%">
+  <img src="./assets/banner.svg" alt="Rohan Islam Banner" width="100%">
 </p>
 
 
