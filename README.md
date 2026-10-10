@@ -11,8 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=Aspiring+Web+Developer;Building+and+Learning+Every+Day;Frontend+Developer+in+Progress;Learning+JavaScript%2C+TypeScript+%26+React;Creating+Modern+Web+Experiences"
-    alt="Typing Animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Web+Apps;React+%2B+Next.js+%2B+TypeScript;Learning+MERN+Stack+Step+by+Step"
   />
 </p>
 
@@ -22,13 +21,13 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🚀 I'm currently working on <strong>Learning and building Web Development projects</strong></li>
+  <li>🚀 I'm currently building <strong>modern web projects with React &amp; Next.js</strong></li>
 
-  <li>🌱 I’m currently learning <strong>JavaScript, TypeScript, React</strong></li>
+  <li>🌱 I'm currently learning <strong>Next.js, TypeScript, Node.js &amp; MongoDB (MERN Stack)</strong></li>
 
-  <li>👯 I’m looking to collaborate on <strong>Frontend and Web Development projects</strong></li>
+  <li>👯 I'm looking to collaborate on <strong>Frontend and Web Development projects</strong></li>
 
-  <li>🤝 I’m looking for help with <strong>React and modern frontend development</strong></li>
+  <li>🤝 I'm looking for help with <strong>React and modern frontend development</strong></li>
 
   <li>
     👨‍💻 All of my projects are available at
@@ -39,15 +38,13 @@
 
   <li>
     💬 Ask me about
-    <strong>JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Git & GitHub</strong>
+    <strong>JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Git &amp; GitHub</strong>
   </li>
 
-<li> 
-  📫 How to reach me: 
-  <a href="mailto:coderootbdofficial24@gmail.com"> 
-    Gmail 
-  </a> 
-</li>
+  <li>
+    📫 How to reach me:
+    <a href="mailto:coderootbdofficial24@gmail.com">Gmail</a>
+  </li>
 
   <li>
     ⚡ Fun fact:
@@ -57,7 +54,6 @@
 
 
 <br>
-
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
