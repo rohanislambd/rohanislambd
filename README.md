@@ -61,7 +61,33 @@
 
 <p align="left">
 
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/rohanislamofficial24) [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/roahanislamofficial) [![GitHub](./assets/Github-Dark.svg)](https://github.com/rohanislambd)
+  <a  href="https://fb.com/roahanislamofficial" target="_blank" >
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="35"
+      width="45"
+      
+    />
+  </a>
+
+  <a style="text-decoration: none; display: inline;" href="https://instagram.com/roahanislamofficial" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="35"
+      width="45"
+    />
+  </a>
+
+  <a href="https://github.com/rohanislambd" target="_blank">
+    <img
+      src="./assets/Github-Dark.svg"
+      alt="GitHub"
+      height="35"
+      width="45"
+    />
+  </a>
 
 </p>
 
@@ -77,60 +103,7 @@
 
 <p align="left">
 
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="./assets/HTML.svg"
-      alt="HTML5"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="./assets/CSS.svg"
-      alt="CSS3"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="./assets/JavaScript.svg"
-      alt="JavaScript"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="./assets/TypeScript.svg"
-      alt="TypeScript"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img
-      src="./assets/React-Dark.svg"
-      alt="React"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="./assets/TailwindCSS-Dark.svg"
-      alt="Tailwind CSS"
-      width="50"
-      height="50"
-    />
-  </a>
-
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)
  
 
 </p>
