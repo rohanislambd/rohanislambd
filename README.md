@@ -61,12 +61,13 @@
 
 <p align="left">
 
-  <a style="text-decoration: none; display: inline;" href="https://fb.com/roahanislamofficial" target="_blank" >
+  <a  href="https://fb.com/roahanislamofficial" target="_blank" >
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook"
       height="35"
       width="45"
+      border="0"
     />
   </a>
 
