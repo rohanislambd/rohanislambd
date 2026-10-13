@@ -61,7 +61,11 @@
 
 <p align="left">
 
+<<<<<<< HEAD
   <a href="https://fb.com/rohanislamofficial24" target="_blank" >
+=======
+  <a style="text-decoration: none; display: inline;" href="https://fb.com/roahanislamofficial" target="_blank" >
+>>>>>>> 9e10ddc (style: remove text decoration)
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook"
@@ -70,7 +74,7 @@
     />
   </a>
 
-  <a href="https://instagram.com/roahanislamofficial" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://instagram.com/roahanislamofficial" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
@@ -79,7 +83,7 @@
     />
   </a>
 
-  <a href="https://github.com/rohanislambd" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://github.com/rohanislambd" target="_blank">
     <img
       src="./assets/Github-Dark.svg"
       alt="GitHub"
@@ -102,7 +106,7 @@
 
 <p align="left">
 
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://www.w3.org/html/" target="_blank">
     <img
       src="./assets/HTML.svg"
       alt="HTML5"
@@ -111,7 +115,7 @@
     />
   </a>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="./assets/CSS.svg"
       alt="CSS3"
@@ -120,7 +124,7 @@
     />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="./assets/JavaScript.svg"
       alt="JavaScript"
@@ -129,7 +133,7 @@
     />
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="./assets/TypeScript.svg"
       alt="TypeScript"
@@ -138,7 +142,7 @@
     />
   </a>
 
-  <a href="https://react.dev/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://react.dev/" target="_blank">
     <img
       src="./assets/React-Dark.svg"
       alt="React"
@@ -147,7 +151,7 @@
     />
   </a>
 
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://tailwindcss.com/" target="_blank">
     <img
       src="./assets/TailwindCSS-Dark.svg"
       alt="Tailwind CSS"
@@ -165,7 +169,7 @@
 
 <p align="left">
 
-  <a href="https://nodejs.org/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://nodejs.org/" target="_blank">
     <img
       src="./assets/NodeJS-Dark.svg"
       alt="Node.js"
@@ -174,7 +178,7 @@
     />
   </a>
 
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://www.mongodb.com/" target="_blank">
     <img
       src="./assets/MongoDB.svg"
       alt="MongoDB"
@@ -190,7 +194,7 @@
 
 <p align="left">
 
-  <a href="https://git-scm.com/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://git-scm.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="Git"
@@ -199,7 +203,7 @@
     />
   </a>
 
-  <a href="https://github.com/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://github.com/" target="_blank">
     <img
       src="./assets/Github-Dark.svg"
       alt="GitHub"
@@ -208,7 +212,7 @@
     />
   </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a style="text-decoration: none; display: inline;" href="https://code.visualstudio.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
       alt="VS Code"
