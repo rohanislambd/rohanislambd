@@ -62,20 +62,20 @@
 <div align="left">
 
 <a href="https://www.linkedin.com/in/rohanislambd/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 15px;" />
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 
 <a href="https://www.facebook.com/rohanislamofficial24">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" style="margin-right: 15px />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48"/>
 </a>
 
 <a href="mailto:coderootbdofficial24@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/rohanislambd">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 
