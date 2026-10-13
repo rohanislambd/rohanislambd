@@ -61,33 +61,17 @@
 
 <p align="left">
 
-  <a  href="https://fb.com/roahanislamofficial" target="_blank" >
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook"
-      height="35"
-      width="45"
-      
-    />
-  </a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohanislambd/)
 
-  <a style="text-decoration: none; display: inline;" href="https://instagram.com/roahanislamofficial" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      height="35"
-      width="45"
-    />
-  </a>
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/rohanislambd)
 
-  <a href="https://github.com/rohanislambd" target="_blank">
-    <img
-      src="./assets/Github-Dark.svg"
-      alt="GitHub"
-      height="35"
-      width="45"
-    />
-  </a>
+
+
+
+
+
+
+
 
 </p>
 
@@ -113,23 +97,7 @@
 
 <p align="left">
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img
-      src="./assets/NodeJS-Dark.svg"
-      alt="Node.js"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="./assets/MongoDB.svg"
-      alt="MongoDB"
-      width="50"
-      height="50"
-    />
-  </a>
+ ![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs)
 
 </p>
 
@@ -138,33 +106,7 @@
 
 <p align="left">
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-      alt="Git"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img
-      src="./assets/Github-Dark.svg"
-      alt="GitHub"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      alt="VS Code"
-      width="50"
-      height="50"
-    />
-  </a>
-
+![My Skills](  https://skillicons.dev/icons?i=git,github,vscode)
 </p>
 
 
