@@ -61,25 +61,7 @@
 
 <p align="left">
 
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/roahanislamofficial)
-
-  <a style="text-decoration: none; display: inline;" href="https://instagram.com/roahanislamofficial" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      height="35"
-      width="45"
-    />
-  </a>
-
-  <a href="https://github.com/rohanislambd" target="_blank">
-    <img
-      src="./assets/Github-Dark.svg"
-      alt="GitHub"
-      height="35"
-      width="45"
-    />
-  </a>
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/rohanislamofficial24) [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/roahanislamofficial) [![GitHub](./assets/Github-Dark.svg)](https://github.com/rohanislambd)
 
 </p>
 
