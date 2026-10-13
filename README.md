@@ -59,21 +59,28 @@
 
 <h2>🤝 Connect With Me</h2>
 
-<p align="left">
+<div align="left">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohanislambd/)
-
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/rohanislambd)
-
-
+<a href="https://www.linkedin.com/in/rohanislambd/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 15px;" />
+</a>
 
 
+<a href="https://www.facebook.com/rohanislamofficial24">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" style="margin-right: 15px />
+</a>
+
+<a href="mailto:coderootbdofficial24@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="https://github.com/rohanislambd">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
 
 
 
-
-
-</p>
+</div>
 
 
 <br>
